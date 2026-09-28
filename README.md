@@ -4,6 +4,18 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11">
+<img src="https://img.shields.io/badge/SIEM-Splunk-FFB900?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk">
+<img src="https://img.shields.io/badge/Language-SPL-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="SPL">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/SOC-Investigation-111827?style=for-the-badge" alt="SOC Investigation">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-EF4444?style=for-the-badge" alt="MITRE ATT&CK">
+
+</div>
+
+
 # Splunk Windows SOC Monitoring & Detection Lab
 
 ## Overview
